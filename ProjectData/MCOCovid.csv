@@ -1,0 +1,18 @@
+Summary Statistics Origin Report  
+Origin Airport: Orlando, FL: Orlando International (MCO)
+Airline: Delta Airlines Inc. (DL)
+Time Period: Sunday, March 1, 2020 to Monday, March 1, 2021
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out (minutes),Average Scheduled Departure to Take-off (minutes),Total Number ,Average Departure Delay (minutes) ,Average Taxi-Out (minutes) ,Average Scheduled Departure to Take-off (minutes) ,Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted,Percent Flights Late
+"ALL*","86849","0.88","12.96","11.10","7317","58.32","13.85","52.10","5490","6.32","111","0.12","8.42"
+"DL","10073","0.79","13.02","12.61","630","87.63","14.16","83.51","568","5.63","13","0.12","6.25"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier,Weather,National Aviation System,Security,Late Aircraft Arrival
+"ALL*","86849","111","32.72","22.97","21.96","6.53","12.40","0.17","15.51"
+"DL","10073","13","24.38","25.20","38.49","3.37","14.86","0.10","25.93"
+
+
+* Average of all airlines operating at this airport.
+
+SOURCE: Bureau of Transportation Statistics

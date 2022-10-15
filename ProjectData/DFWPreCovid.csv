@@ -1,0 +1,18 @@
+Summary Statistics Origin Report  
+Origin Airport: Dallas/Fort Worth, TX: Dallas/Fort Worth International (DFW)
+Airline: Delta Airlines Inc. (DL)
+Time Period: Friday, March 1, 2019 to Sunday, March 1, 2020
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out (minutes),Average Scheduled Departure to Take-off (minutes),Total Number ,Average Departure Delay (minutes) ,Average Taxi-Out (minutes) ,Average Scheduled Departure to Take-off (minutes) ,Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted,Percent Flights Late
+"ALL*","308750","12.74","19.17","23.22","65123","66.10","19.26","46.37","7828","2.53","754","0.24","21.09"
+"DL","10921","16.20","17.97","28.90","2131","91.72","19.76","84.46","16","0.14","54","0.49","19.51"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier,Weather,National Aviation System,Security,Late Aircraft Arrival
+"ALL*","308750","754","44.20","41.04","21.02","4.85","11.36","0.03","26.60"
+"DL","10921","54","36.88","41.24","29.15","9.39","16.93","0.00","33.10"
+
+
+* Average of all airlines operating at this airport.
+
+SOURCE: Bureau of Transportation Statistics

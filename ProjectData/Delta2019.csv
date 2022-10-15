@@ -1,0 +1,16 @@
+Summary Statistics Airline  
+Airline: Delta Airlines Inc. (DL)
+Time Period: Tuesday, January 1, 2019 to Wednesday, January 1, 2020
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted
+"DL","993846","8.14","17.23","14.87","1.16","121.40","7.67","1842","0.18","2123","0.21"
+
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Percent Flights Late
+"DL","143173","63.12","24.66","35.10","68.32","130.83","9.60","9.60"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier ,Weather,National Aviation System,Security,Late Aircraft Arrival
+"DL","993846","2123","32.33","40.79","24.43","4.61","18.98","0.06","20.21"
+
+ SOURCE: Bureau of Transportation Statistics

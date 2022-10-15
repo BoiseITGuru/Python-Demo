@@ -1,0 +1,16 @@
+Summary Statistics Airline  
+Airline: American Airlines Inc. (AA)
+Time Period: Tuesday, January 1, 2019 to Wednesday, January 1, 2020
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted
+"AA","949241","12.10","18.56","18.96","6.94","134.19","9.39","20176","2.12","2387","0.25"
+
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Percent Flights Late
+"AA","195459","61.74","23.90","47.22","67.11","139.71","10.75","10.75"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier ,Weather,National Aviation System,Security,Late Aircraft Arrival
+"AA","949241","2387","70.24","40.33","22.39","3.25","14.73","0.09","26.63"
+
+ SOURCE: Bureau of Transportation Statistics

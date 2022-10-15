@@ -1,0 +1,18 @@
+Summary Statistics Origin Report  
+Origin Airport: Denver, CO: Denver International (DEN)
+Airline: Delta Airlines Inc. (DL)
+Time Period: Friday, March 1, 2019 to Sunday, March 1, 2020
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out (minutes),Average Scheduled Departure to Take-off (minutes),Total Number ,Average Departure Delay (minutes) ,Average Taxi-Out (minutes) ,Average Scheduled Departure to Take-off (minutes) ,Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted,Percent Flights Late
+"ALL*","290932","13.29","18.54","13.50","61610","68.28","19.94","36.51","5710","1.96","777","0.26","21.18"
+"DL","12121","7.67","17.13","0.86","1653","66.84","20.24","57.46","32","0.26","39","0.32","13.64"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier,Weather,National Aviation System,Security,Late Aircraft Arrival
+"ALL*","290932","777","29.92","38.27","21.01","4.03","13.71","0.03","28.65"
+"DL","12121","39","32.28","31.88","18.68","6.30","17.31","0.06","22.59"
+
+
+* Average of all airlines operating at this airport.
+
+SOURCE: Bureau of Transportation Statistics

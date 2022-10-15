@@ -1,0 +1,18 @@
+Summary Statistics Origin Report  
+Origin Airport: New York, NY: John F. Kennedy International (JFK)
+Airline: Delta Airlines Inc. (DL)
+Time Period: Friday, March 1, 2019 to Sunday, March 1, 2020
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out (minutes),Average Scheduled Departure to Take-off (minutes),Total Number ,Average Departure Delay (minutes) ,Average Taxi-Out (minutes) ,Average Scheduled Departure to Take-off (minutes) ,Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted,Percent Flights Late
+"ALL*","127496","11.52","25.55","12.74","22414","79.16","31.58","-3.64","1624","1.27","294","0.23","17.58"
+"DL","33461","12.83","26.89","26.72","5963","80.27","33.63","41.10","77","0.23","72","0.21","17.82"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier,Weather,National Aviation System,Security,Late Aircraft Arrival
+"ALL*","127496","294","37.14","67.47","26.41","4.03","24.20","0.13","23.22"
+"DL","33461","72","29.35","83.02","31.07","3.94","31.18","0.30","15.60"
+
+
+* Average of all airlines operating at this airport.
+
+SOURCE: Bureau of Transportation Statistics

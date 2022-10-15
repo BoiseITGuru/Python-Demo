@@ -1,0 +1,18 @@
+Summary Statistics Origin Report  
+Origin Airport: Phoenix, AZ: Phoenix Sky Harbor International (PHX)
+Airline: Delta Airlines Inc. (DL)
+Time Period: Sunday, March 1, 2020 to Monday, March 1, 2021
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out (minutes),Average Scheduled Departure to Take-off (minutes),Total Number ,Average Departure Delay (minutes) ,Average Taxi-Out (minutes) ,Average Scheduled Departure to Take-off (minutes) ,Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted,Percent Flights Late
+"ALL*","113677","0.85","14.49","8.93","7958","59.25","15.05","45.53","7217","6.34","175","0.15","7"
+"DL","6652","1.11","11.87","-20.98","409","79.35","13.21","-2.49","251","3.77","7","0.10","6.15"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier,Weather,National Aviation System,Security,Late Aircraft Arrival
+"ALL*","113677","175","30.79","24.48","25.42","1.77","9.03","0.20","20.44"
+"DL","6652","7","20.57","15.71","36.20","3.41","12.15","0.00","19.51"
+
+
+* Average of all airlines operating at this airport.
+
+SOURCE: Bureau of Transportation Statistics

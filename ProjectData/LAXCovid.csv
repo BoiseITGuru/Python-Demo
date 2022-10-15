@@ -1,0 +1,18 @@
+Summary Statistics Origin Report  
+Origin Airport: Los Angeles, CA: Los Angeles International (LAX)
+Airline: American Airlines Inc. (AA)
+Time Period: Sunday, March 1, 2020 to Monday, March 1, 2021
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out (minutes),Average Scheduled Departure to Take-off (minutes),Total Number ,Average Departure Delay (minutes) ,Average Taxi-Out (minutes) ,Average Scheduled Departure to Take-off (minutes) ,Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted,Percent Flights Late
+"ALL*","113055","-0.03","13.28","-2.75","7195","61.15","14.31","15.78","7076","6.25","194","0.17","6.36"
+"AA","16775","0.79","14.82","-19.28","1144","63.23","16.44","-14.72","1017","6.06","36","0.21","6.82"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier,Weather,National Aviation System,Security,Late Aircraft Arrival
+"ALL*","113055","194","33.61","22.98","28.75","2.76","12.27","0.44","13.23"
+"AA","16775","36","87.25","25.37","33.17","1.48","13.62","1.37","9.62"
+
+
+* Average of all airlines operating at this airport.
+
+SOURCE: Bureau of Transportation Statistics

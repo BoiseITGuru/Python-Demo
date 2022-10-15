@@ -1,0 +1,16 @@
+Summary Statistics Airline  
+Airline: Southwest Airlines Co. (WN)
+Time Period: Friday, January 1, 2021 to Wednesday, December 1, 2021
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted
+"WN","669165","12.88","11.77","21.24","5.25","108.40","5.71","15617","2.33","1704","0.25"
+
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Percent Flights Late
+"WN","139699","54.30","14.07","52.39","53.35","112.37","7.34","7.34"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier ,Weather,National Aviation System,Security,Late Aircraft Arrival
+"WN","669165","1704","21.89","22.91","19.38","1.47","7.65","0.15","24.67"
+
+ SOURCE: Bureau of Transportation Statistics

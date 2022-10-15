@@ -1,0 +1,16 @@
+Summary Statistics Airline  
+Airline: United Airlines Inc. (UA)
+Time Period: Wednesday, January 1, 2020 to Friday, January 1, 2021
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted
+"UA","309113","1.98","17.32","11.20","-6.94","156.24","6.97","22611","7.31","462","0.14"
+
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Percent Flights Late
+"UA","27783","59.19","25.15","57.86","63.05","159.71","8.30","8.30"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier ,Weather,National Aviation System,Security,Late Aircraft Arrival
+"UA","309113","462","38.27","32.81","20.33","3.43","16.88","0.00","22.39"
+
+ SOURCE: Bureau of Transportation Statistics
